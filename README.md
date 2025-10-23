@@ -2,7 +2,11 @@
 
 **Un proyecto de Ciencia de Datos para la Planificación Urbana y la Construcción**
 
-[Inserta aquí una captura de pantalla atractiva de tu mapa interactivo final. ¡Un buen visual capta la atención de inmediato!]
+<img width="347" height="598" alt="Mapa1" src="https://github.com/user-attachments/assets/ebffde92-b39c-44d2-b5d4-6d42bd79257d" />
+<img width="325" height="603" alt="mapa 2" src="https://github.com/user-attachments/assets/201a25a7-07d7-463b-a0ad-910e24541adb" />
+<img width="246" height="578" alt="Mapa3" src="https://github.com/user-attachments/assets/a9b19b2b-d58d-407f-acb2-52740261e90e" />
+
+
 *(Ej: "mapa_sismicidad_chile_v3.png")*
 
 ---
