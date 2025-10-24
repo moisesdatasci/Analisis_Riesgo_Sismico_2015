@@ -1,19 +1,20 @@
 # 🚀 Análisis de Riesgo Sísmico en Chile (2003-2015)
 
-**Un proyecto de Ciencia de Datos para la Planificación Urbana y la Construcción**
+**Un proyecto de Ciencia de Datos para la Planificación Urbana y la Construcción usando los datos disponibles del centro sismológico Nacional Universidad de Chile**
 <p align="center">
-<img alt="Mapa1" src="https://github.com/user-attachments/assets/ebffde92-b39c-44d2-b5d4-6d42bd79257d" width="246" height="603"/>
-<img alt="mapa 2" src="https://github.com/user-attachments/assets/201a25a7-07d7-463b-a0ad-910e24541adb" width="246" height="603"/>
-<img alt="Mapa3" src="https://github.com/user-attachments/assets/a9b19b2b-d58d-407f-acb2-52740261e90e" width="246" height="603"/>
+<img width="325" height="603" alt="Mapa1" src="https://github.com/user-attachments/assets/33c3dfa1-6d5b-48a4-b55e-ac01f30362b3" />
+<img width="325" height="603" alt="mapa 2" src="https://github.com/user-attachments/assets/16cf8e00-e5b2-4bd4-837c-7c214e20b4cb" />
+<img width="325" height="603" alt="Mapa3" src="https://github.com/user-attachments/assets/613f1e4b-edb6-4ccd-bd53-0f3314a990a1" />
 </p>
 
-*(Ej: "mapa_sismicidad_chile_v3.png")*
+
+*mapa_sismicidad_chile_v3.png*
 
 ---
 
 ## 1. Resumen del Proyecto
 
-Este proyecto realiza un análisis de punta a punta (End-to-End) de la actividad sísmica en Chile utilizando un conjunto de datos actualizado que abarca desde **2003 hasta 2024**, obtenido del **Centro Sismológico Nacional (CSN)**.
+Este proyecto realiza un análisis de punta a punta (End-to-End) de la actividad sísmica en Chile utilizando un conjunto de datos actualizado que abarca desde **2003 hasta 2015**, obtenido del **Centro Sismológico Nacional (CSN)**.
 
 El objetivo principal es traducir los datos sísmicos en bruto en inteligencia accionable para un *stakeholder* del sector de la construcción, respondiendo a la pregunta: **"¿Cuáles son las zonas de mayor y menor riesgo sísmico en Chile para la planificación urbana?"**
 
@@ -52,7 +53,7 @@ El proyecto siguió un ciclo de vida estructurado de Ciencia de Datos:
 ### Paso 1: Definición del Problema y Adquisición de Datos
 * **Objetivo:** Identificar zonas de riesgo para una constructora.
 * **Fuente:** Catálogo sísmico del Centro Sismológico Nacional (CSN) de la Universidad de Chile.
-* **Datos:** [XX.XXX] eventos sísmicos (2003-2024).
+* **Datos:** 58.358 eventos sísmicos (2003-2015).
 
 ### Paso 2: Limpieza y Preprocesamiento de Datos (Data Wrangling)
 * Renombrado de columnas para claridad.
